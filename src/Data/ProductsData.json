@@ -8,7 +8,7 @@
     "shortDescription": "Ghee made from grass-fed cow's milk.",
     "description": "Traditional desi ghee made without chemicals. Pure and aromatic, perfect for cooking and boosting health naturally.",
     "category": "ghee",
-    "image": "/public/images/product-images/ghee1.jpeg"
+    "image": "/images/product-images/ghee1.jpeg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "shortDescription": "Honey from local bee hives.",
     "description": "Collected from native hives, this pure honey is delicious and safe. Perfect for regular healthy consumption.",
     "category": "honey",
-    "image": "/public/images/product-images/honey-2.jpeg"
+    "image": "/images/product-images/honey-2.jpeg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "shortDescription": "Seasonal honey from mustard flowers.",
     "description": "Pure honey harvested from blooming mustard fields. Naturally sweet, aromatic, and full of nutritional value.",
     "category": "honey",
-    "image": "/public/images/product-images/honey-4.jpeg"
+    "image": "/images/product-images/honey-4.jpeg"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "shortDescription": "Raw honey collected from the Sundarbans forest.",
     "description": "Wild raw honey from Sundarbans forest. No preservatives, rich in taste and health benefits.",
     "category": "honey",
-    "image": "/public/images/product-images/honey-1.webp"
+    "image": "/images/product-images/honey-1.webp"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "shortDescription": "Health-boosting honey blended with black seed.",
     "description": "Natural honey mixed with black seed. Strengthens immunity and offers numerous health benefits for all ages.",
     "category": "honey",
-    "image": "/public/images/product-images/honey-3.jpeg"
+    "image": "/images/product-images/honey-3.jpeg"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "shortDescription": "Pure mustard oil processed in traditional Ghani.",
     "description": "5kg family-size mustard oil made using traditional Ghani methods. Aromatic, nutritious, and rich in Ayurvedic value.",
     "category": "mustard oil",
-    "image": "/public/images/product-images/mustard-oil-5kg.jpg"
+    "image": "/images/product-images/mustard-oil-5kg.jpg"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "shortDescription": "Naturally thick and sweetened yogurt.",
     "description": "Traditional Bangladeshi sweet yogurt made with milk and sugar. Perfect for desserts, guests, or festive meals.",
     "category": "doi",
-    "image": "/public/images/product-images/doi.jpeg"
+    "image": "/images/product-images/doi.jpeg"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "shortDescription": "Naturally fermented sour yogurt.",
     "description": "Sour yogurt with a tangy taste. Ideal for mashed dishes or curries — fresh and healthy.",
     "category": "doi",
-    "image": "/public/images/product-images/tok-doi.jpg"
+    "image": "/images/product-images/tok-doi.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "shortDescription": "Pure cow milk with no added water.",
     "description": "Fresh, chemical-free cow milk rich in calcium. Safe for children and great for everyday nutrition.",
     "category": "milk",
-    "image": "/public/images/product-images/milk.jpeg"
+    "image": "/images/product-images/milk.jpeg"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "shortDescription": "Extra virgin cold-pressed olive oil.",
     "description": "High-quality olive oil for cooking, skincare, and hair. Extra virgin and cold-pressed for purity.",
     "category": "olive oil",
-    "image": "/public/images/product-images/olive-oil-1kg.jpeg"
+    "image": "/images/product-images/olive-oil-1kg.jpeg"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "shortDescription": "Everyday use olive oil in small pack.",
     "description": "500gm olive oil — ideal for small families and daily use in cooking and beauty care.",
     "category": "olive oil",
-    "image": "/public/images/product-images/olive-oil-500gm.jpeg"
+    "image": "/images/product-images/olive-oil-500gm.jpeg"
   },
   {
     "id": 12,
@@ -129,6 +129,6 @@
     "shortDescription": "Perfect size for small families.",
     "description": "Compact 250gm bottle of extra virgin olive oil. Easy to store and use for everyday needs.",
     "category": "olive oil",
-    "image": "/public/images/product-images/olive-oil-500gm.jpeg"
+    "image": "/images/product-images/olive-oil-500gm.jpeg"
   }
 ]
